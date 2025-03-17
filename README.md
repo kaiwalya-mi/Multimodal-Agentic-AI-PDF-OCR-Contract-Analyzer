@@ -23,6 +23,30 @@
   <img src="docs/assets/separator.svg" alt="separator" width="100%">
 </p>
 
+
+Analysis report:-
+
+<img width="1062" alt="Screenshot 2025-03-15 at 5 54 45 AM" src="https://github.com/user-attachments/assets/ebc07f06-4bb0-4546-86aa-8164f19ce2cb" />
+
+<p align="center">
+  <img src="docs/assets/separator.svg" alt="separator" width="100%">
+</p>
+
+
+<img width="1062" alt="Screenshot 2025-03-15 at 5 54 56 AM" src="https://github.com/user-attachments/assets/efad2f6d-7de5-4ce2-981a-b65d737faae1" />
+
+<p align="center">
+  <img src="docs/assets/separator.svg" alt="separator" width="100%">
+</p>
+
+
+
+<img width="1062" alt="Screenshot 2025-03-15 at 1 14 56 AM" src="https://github.com/user-attachments/assets/6ac0be1c-5e71-4dd5-bc64-9fc6a35f32ea" />
+
+
+
+
+
 ## 📋 Quick Links
 
 - [Introduction](#introduction)
