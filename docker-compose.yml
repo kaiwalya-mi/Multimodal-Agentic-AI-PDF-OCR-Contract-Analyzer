@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  contractai:
+    build: .
+    volumes:
+      - ./examples:/app/examples
+      - ./data:/app/data
+    environment:
+      - MISTRAL_API_KEY=${MISTRAL_API_KEY}
+    command: examples/DigitalCinemaDestinationsCorp_20111220_S-1_EX-10.10_7346719_EX-10.10_Affiliate\ Agreement.pdf --ocr --output-dir /app/data
